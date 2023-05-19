@@ -1,0 +1,15 @@
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\bin\Debug\net6.0\PruebaAranda.Infrastructure.deps.json
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\bin\Debug\net6.0\PruebaAranda.Infrastructure.dll
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\bin\Debug\net6.0\ref\PruebaAranda.Infrastructure.dll
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\bin\Debug\net6.0\PruebaAranda.Infrastructure.pdb
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\bin\Debug\net6.0\PruebaAranda.Domain.dll
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\bin\Debug\net6.0\PruebaAranda.Domain.pdb
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.AssemblyInfo.cs
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.csproj.CopyComplete
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.dll
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\ref\PruebaAranda.Infrastructure.dll
+C:\Users\jgmp2\source\repos\PruebaAranda\PruebaAranda\PruebaAranda.Infrastructure\obj\Debug\net6.0\PruebaAranda.Infrastructure.pdb
